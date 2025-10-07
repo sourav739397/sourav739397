@@ -35,7 +35,7 @@
 
 ### 🧠 Competitive Programming
 - 💪 Codeforces: [@sourav739397](https://codeforces.com/profile/sourav739397)  
-- 🔢 Current Rating: **1274** → aiming for **Expert (1600+)**  
+- 🔢 Rating (max) : **1506** → aiming for **Expert (1600+)**  
 - 🧩 Focus Areas: **Binary Search**, **DP**, **Graphs**, **Greedy**, **Math**
 
 ---
@@ -43,9 +43,6 @@
 ### ⚙️ Projects
 - 🧰 **Competitive Programming Workflow Script**  
   > A powerful Bash script for parsing, compiling, testing, and stress-checking CP problems directly from Competitive Companion.
-
-- 📈 **Pollard’s Rho Factorization (C++)**  
-  > Full implementation with optimization and detailed comments.
 
 ---
 
