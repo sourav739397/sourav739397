@@ -1,56 +1,50 @@
-# 👋 Hi, I'm Sourav Mondal
+# Hi there, I'm Sourav! 👋
 
-🚀 **Competitive Programmer | C++ Enthusiast | Aspiring Expert on Codeforces**  
-💻 I love writing efficient algorithms, building automation scripts, and solving challenging problems.
+## 🚀 About Me
 
----
+Competitive programmer passionate about algorithms and problem-solving. Active on Codeforces and participating in ICPC/IUPC contests.
 
-### 🧩 About Me
-- 🎯 Currently focused on improving my **problem-solving** and **dynamic programming** skills  
-- 🧠 Interested in **algorithm design**, **optimization**, and **system-level scripting**  
-- ⚡ Using **Bash** + **C++** for competitive programming automation  
-- 🌱 Learning: **Advanced DP**, **Number Theory**, and **Graph Algorithms**  
-- 💼 Open to **freelancing** and **collaborative programming projects**
+## 💻 Competitive Programming
 
----
+- **Codeforces:** [-739397](https://codeforces.com/profile/-739397)
+- **Contests:** ICPC, IUPC, Codeforces rounds
+- **Focus:** Algorithms, Data Structures, Problem Solving
 
-### 🛠️ Tech Stack
-**Languages:**  
-`C++` · `Bash` · `Python (basic)` · `HTML`  
+## 🛠️ Tech Stack
 
-**Tools & Platforms:**  
-`VS Code` · `GNU G++` · `Git` · `GitHub` · `Linux (XFCE)`  
+- **Languages:** C++, Bash
+- **Tools:** LaTeX, Git, Linux
+- **Specialties:** Competitive Programming, Algorithm Implementation
 
-**Other Skills:**  
-`Automation` · `Scripting` · `Problem Solving` · `Version Control`
+## 📚 Featured Projects
 
----
+### [CP Library](https://github.com/sourav739397/cp-library)
+A curated collection of algorithms for competitive programming with automation tools
+- Algorithms from KACTL, Benjamin Qi's notebook, and CPH
+- Bash script for problem fetching and stress testing
+- 25-page LaTeX reference document
 
-### 📊 GitHub Stats
-![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourav739397&show_icons=true&theme=tokyonight)
+### [Competitive Programming Automation](https://github.com/sourav739397/Competitive-Programming-Automation)
+Automation tools for competitive programming workflow
+- Problem fetching from Codeforces
+- Automated testing and stress testing
+- [Blog post on Codeforces](https://codeforces.com/blog/entry/142978)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav739397&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
 
----
+![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourav739397&show_icons=true&theme=dark)
 
-### 🧠 Competitive Programming
-- 💪 Codeforces: [@sourav739397](https://codeforces.com/profile/sourav739397)  
-- 🔢 Rating (max) : **1506** → aiming for **Expert (1600+)**  
-- 🧩 Focus Areas: **Binary Search**, **DP**, **Graphs**, **Greedy**, **Math**
+## 🌱 Currently Learning
 
----
+- Advanced algorithms and data structures
+- Competitive programming techniques
+- Problem-solving strategies for contests
 
-### ⚙️ Projects
-- 🧰 **Competitive Programming Workflow Script**  
-  > A powerful Bash script for parsing, compiling, testing, and stress-checking CP problems directly from Competitive Companion.
+## 📫 Connect With Me
 
----
-
-### 📫 Connect With Me
-- ✉️ Email: **sourav739397@gmail.com**  
-- 🌐 GitHub: [github.com/sourav739397](https://github.com/sourav739397)  
-- 🧩 Codeforces: [codeforces.com/profile/sourav739397](https://codeforces.com/profile/sourav739397)
+- GitHub: [@sourav739397](https://github.com/sourav739397)
+- Codeforces: [-739397](https://codeforces.com/profile/-739397)
 
 ---
 
-⭐ *“Practice, debug, learn — repeat.”*  
+⭐ Feel free to check out my repositories and star them if you find them useful!
